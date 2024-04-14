@@ -4,6 +4,8 @@ Unlock growth opportunities for 2023 with insights from Vrinda Store's 2022 sale
 This represents a yearly sales report for Vrinda Store, packed with useful insights to improve sales in 2023. It includes easy-to-understand data analysis and visuals that reveal customer habits, sales patterns, and how well different sales channels are performing.
 # Data cleaning and preparation
 The dataset included various attributes such as customer ID, order ID, gender, age, date, status, channel, categories, quantity, amount, and shipping details. Prior to analysis, data cleaning and preparation were undertaken, including handling null values and standardizing categorical variables such as gender and quantity.
+# Output
+![Uploading Screenshot (52).png…]()
 # Data analysis highlights
 1. Sales vs. Orders: We compared how much we sold with how many orders we got in one chart.
 2. Top Sellers: We found out what products/categories sold the most.
