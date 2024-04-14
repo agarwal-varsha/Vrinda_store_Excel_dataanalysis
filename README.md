@@ -13,8 +13,8 @@ The dataset included various attributes such as customer ID, order ID, gender, a
 6. Age and Gender: We looked at how different ages and genders ordered from us.
 7. Best Channel: Amazon was where we made the most sales.
 # Insights
-a. Best Time to Sell: March was our best month for sales.
-b. Who to Target: We should focus on women aged 30 to 49 in Maharashtra, Karnataka, and Uttar Pradesh.
-c. Where to Advertise: Platforms like Amazon, Flipkart, and Myntra are great places to advertise.
+1. Best Time to Sell: March was our best month for sales.
+2.  Who to Target: We should focus on women aged 30 to 49 in Maharashtra, Karnataka, and Uttar Pradesh.
+3.  Where to Advertise: Platforms like Amazon, Flipkart, and Myntra are great places to advertise.
 # Conclusion
 This report gives us ideas on how to make more sales in 2023. By understanding our customers better and targeting the right people in the right places, we can grow our business even more.
