@@ -5,7 +5,7 @@ This represents a yearly sales report for Vrinda Store, packed with useful insig
 # Data cleaning and preparation
 The dataset included various attributes such as customer ID, order ID, gender, age, date, status, channel, categories, quantity, amount, and shipping details. Prior to analysis, data cleaning and preparation were undertaken, including handling null values and standardizing categorical variables such as gender and quantity.
 # Output
-![Uploading Screenshot (52).png…]()
+![Screenshot 2024-04-14 220913](https://github.com/agarwal-varsha/Vrinda_store_Excel_dataanalysis/assets/166792795/4fb8f377-9f8a-4e21-987f-062714c43c4a)
 # Data analysis highlights
 1. Sales vs. Orders: We compared how much we sold with how many orders we got in one chart.
 2. Top Sellers: We found out what products/categories sold the most.
